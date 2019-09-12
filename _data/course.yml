@@ -1,6 +1,6 @@
 title: Build Your Own Mac OS X Client Server
 description: Welcome to our Course! Learn How to Build a Mac OS X Server
-modules: [tutorial, resources, references]
+modules: [introduction, tutorial, resources, references]
 signups:
  - name: Geert Hofman
    image: https://media.licdn.com/media/p/3/000/1b0/2c9/2daad0c.jpg
