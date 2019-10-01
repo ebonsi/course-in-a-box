@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-## Create your own online course (and keep it)
+## Welcome to our Mac OS X Client Home Server Course
 
 Course in a Box is an open source, online course creation tool. It is designed to minimize the amount of time you need to spend fumbling around with technology, allowing you to focus on bringing together the resources, activities, and lessons that you want to share with the world.
 
