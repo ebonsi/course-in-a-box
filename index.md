@@ -11,13 +11,14 @@ published: true
 
 ![Catch the Wave!](https://lh3.googleusercontent.com/GQHLbjfW1N9Tob0ewoRA4sBl6099XQd8PR_f4lEIH2-FhzlfqlebKjizv2OXVOP41xcF_F3Zuv8=w1122-h1176)
 
-The complete list of open-source software can be accessed at Internet Society. Please, become a member, connect with me, and access the entire list.
+The complete list of open-source software can be accessed at ***Internet Society.*** Please, become a member, connect with me, and access the entire list.
 
 Internet Society | Course Software List
 [https://bit.ly/2kN44bm](https://bit.ly/2kN44bm)
 
 
 I will try my best to not overwhelming you initially with tons of information. At the course ends, we will advance towards extra technical topics.
+
 Some of you might ask the question?
 
 - Why should I have my server and hold the responsibility of maintaining if I can have a  Cloud Server and just run my enterprise from there?
