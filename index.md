@@ -3,14 +3,18 @@ layout: index
 published: true
 ---
 
-# Welcome to our Mac OS X Client Home Server Course
+# Welcome to our
+# Mac OS X Client Home Server Course
 
-***Note:*** This whole material is open source and free to copy, teach and/or modified according to your needs.
+***Note:*** This material is open source and free to copy, teach and/or modified according to your needs.
 
-```## Section 1: Introduction | About the Course
- 
+```
+## Section 1: Introduction | About the Course
+``` 
 
-Hello and Welcome to our course! This course is for anyone that wants to learn the fundamentals of having a home server. The course is geared for the Mac OS X Client computer (...and, client means any computer running the Mac OS X operating system) but you probably can use many sections of this course for Windows and Linux. All software mentioned on this course is open source and available both for Windows and Linux.
+***Hello and Welcome to our course!*** This course is for anyone that wants to learn the fundamentals of having a home server. The course is geared for the Mac OS X Client computer (...and, client means any computer running the Mac OS X operating system) but you probably can use many sections of this course for Windows and Linux. All software mentioned on this course is open source and available both for Windows and Linux.
+
+![Catch the Wave!](https://lh3.googleusercontent.com/GQHLbjfW1N9Tob0ewoRA4sBl6099XQd8PR_f4lEIH2-FhzlfqlebKjizv2OXVOP41xcF_F3Zuv8=w1122-h1176)
 
 Course materials are written in [Markdown](https://www.markdownguide.org/) and hosted on [Github](https://www.github.com), a popular development platform that allows for collaborative drafting, version control, and easy dissemination of your course.
 
