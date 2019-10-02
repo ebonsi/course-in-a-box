@@ -6,16 +6,18 @@ title: About Our Course
 
 I have been running a home server for a long time and during this time I accumulated some knowledge on the subject. So, now I decided to share this knowledge with you. By reading and researching books and the internet I encountered lots of good information and after reading their material, I went on and try. I went through many tests. In the beginning, it was hard because many used to say that you need a static ip address to run a server. However, at some point, I got to run a server on a dynamic address. I had an internet connection with Pacific Bell/SBC. Researching, I found a little application that would change the ip address when there was a change in the DHCP ISP gateway. It worked ok for while until AT&T merged with Pacific Bell and started to offer a DSL/Uverse connection with a static ip address. That made my work a lot easier and with one ip address, I got to serve 3 websites plus one eCommerce store. To make my dynamic connection work, in the past, I used OpenDNS with OpenDNS Updater. Today, you will find many other services that offers the same thing. You can research on Free Dynamic DNS to find others out there in the internet.
 
-https://www.eurodns.com/dynamic-dns
+[https://www.eurodns.com/dynamic-dns](https://www.eurodns.com/dynamic-dns)
+
 
 They're avaliable for Mac OS X, Windows and Linux
 
- - a tutorial module to guide you through the technical steps for creating your course.
- - a resource module to help you design content, activities, community and feedback for your course.
- - a reference module with some explanation and detail about Course in a Box.
- - a community forum where you can ask questions or share your experience.
+# What You Need to Run a Server
 
-The rest of this module will step you through creating your course, adding the modules you want to use and adding and updating content to sections.
+ - an internet connection with a static or dynamic ip address.
+ - a computer in our case, a Mac OS X.
+ - having the control of your ISP router.
+ - a FQDN, a full qualified domain name.
+ - the software to run the server like BIND, Apache.
 
-![Image of maze with starting point indicated]({{site.baseurl}}/img/start.jpg)
-Image [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) by [mikecogh](https://www.flickr.com/photos/mikecogh/11300349426) on Flickr.
+The rest of this module will step you through our Sumary, and Modules of our Course.
+
