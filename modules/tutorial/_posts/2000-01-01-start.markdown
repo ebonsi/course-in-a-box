@@ -9,7 +9,7 @@ I have been running a home server for a long time and during this time I accumul
 [https://www.eurodns.com/dynamic-dns](https://www.eurodns.com/dynamic-dns)
 
 
-They're avaliable for Mac OS X, Windows and Linux
+They're available for Mac OS X, Windows and Linux
 
 # What You Need to Run a Server
 
