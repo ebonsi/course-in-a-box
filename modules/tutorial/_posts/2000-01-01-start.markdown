@@ -11,13 +11,4 @@ I have been running a home server for a long time and during this time I accumul
 
 They're available for Mac OS X, Windows and Linux
 
-# What You Need to Run a Server
-
- - an internet connection with a static or dynamic ip address.
- - a computer, in our case, a Mac OS X or any other computer.
- - having the control of your ISP router.
- - a FQDN, a full qualified domain name.
- - the software to run the server like BIND and Apache.
-
-The rest of this module will step you through our Course Directory, and Modules of our Course.
 
