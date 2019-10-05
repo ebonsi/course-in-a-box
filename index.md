@@ -36,4 +36,4 @@ This class is about learning how to build your server at home!
 
 The cheapest way to run a server and serve some domains plus websites. You will learn how to serve 3 or more different domains with one single ip address. For that, you should learn your limitations and your software configuration. This class will greatly speed up your knowledge on the subject. 
 
-## [Ready! Ok, let's go!](https://ebonsi.github.io/course-in-a-box/modules/tutorial/start/) ####Click on this link or on Tutorial.
+## [Ready! Ok, let's go!](https://ebonsi.github.io/course-in-a-box/modules/tutorial/start/) #### Click on this link or on Tutorial.
