@@ -7,7 +7,7 @@ published: true
 
 ## Introduction | About the Course
 
-***Hello and Welcome to our course!*** This course is for anyone that wants to learn the fundamentals of having a home server. The course is geared for the Mac OS X Client computer (...and, client means any computer running the Mac OS X operating system) but you probably can use many sections of this course for Windows and Linux. All software mentioned on this course is open source and available both for Windows and Linux.
+***Hello and Welcome to our online course!*** This course is for anyone that wants to learn the fundamentals of having a home server. The course is geared for the Mac OS X Client computer (...and, client means any computer running the Mac OS X operating system) but you probably can use many sections of this course for Windows and Linux. All software mentioned on this course is open source and available both for Windows and Linux.
 
 ![Catch the Wave!](https://lh3.googleusercontent.com/GQHLbjfW1N9Tob0ewoRA4sBl6099XQd8PR_f4lEIH2-FhzlfqlebKjizv2OXVOP41xcF_F3Zuv8=w1122-h1176)
 
