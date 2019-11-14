@@ -9,7 +9,6 @@ published: true
 
 ***Hello and Welcome to our online course!*** This course is for anyone that wants to learn the fundamentals of having a home server. The course is geared for the Mac OS X Client computer (...and, client means any computer running the Mac OS X operating system) but you probably can use many sections of this course for Windows and Linux. All software mentioned on this course is open source and available both for Windows and Linux.
 
-![Catch the Wave!](/img/Catch-the-Wave-Mac-OS-X-Client-Server-670x377.png)
 ![Catch the Wave!]({{site.baseurl}}/img/Catch-the-Wave-Mac-OS-X-Client-Server-670x377.png)
 
 The complete list of open-source software can be accessed at ***Internet Society.*** Please, become a member, connect with me, and access the entire list.
