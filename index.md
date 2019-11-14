@@ -21,7 +21,7 @@ I will try my best to not overwhelming you initially with tons of information. A
 
 Some of you might ask the question?
 
-- **Why should I have my server and hold the responsibility of maintaining if I can have a  Cloud Server and just run my enterprise from there?**
+- ***Why should I have my server and hold the responsibility of maintaining if I can have a  Cloud Server and just run my enterprise from there?***
 
 Yes, many of you will probably choose to run a cloud server where someone else will be holding your data. However, learning how to have your server it is fun and it could be cheaper in the long run.
 
