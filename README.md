@@ -9,7 +9,7 @@ To browse your course after you forked, head to,
 [How to Build your Mac OS X Client Server](https://ebonsi.github.io/course-in-a-box/)
 
 Othewise,
-[(https://ebonsi.github.io/course-in-a-box/](https://ebonsi.github.io/course-in-a-box/)
+[https://ebonsi.github.io/course-in-a-box/](https://ebonsi.github.io/course-in-a-box/)
  
 ---
 
