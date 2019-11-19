@@ -3,11 +3,13 @@ layout: index
 published: true
 ---
 
-***Note:*** This material is open source and free to copy, teach and/or modified according to your needs.
+***Note:***
+#### This material is open source and free to copy, teach and/or modify according to your needs. It follows the main principals of OER, Open Educational Resources philosophy and it's policies.
 
 ## Introduction | About the Course
 
-***Hello and Welcome to our online course!*** This course is for anyone that wants to learn the fundamentals of having a home server. The course is geared for the Mac OS X Client computer (...and, client means any computer running the Mac OS X operating system) but you probably can use many sections of this course for Windows and Linux. All software mentioned on this course is open source and available both for Windows and Linux.
+***Hello and Welcome to our online course!***
+#### This course is for anyone that wants to learn the fundamentals of having a home server. The course is geared for the Mac OS X Client computer (...and, client means any computer running the Mac OS X operating system) but you probably can use many sections of this course for Windows and Linux. All software mentioned on this course is open source and available both for Windows and Linux.
 
 #### ![Catch the Wave!]({{site.baseurl}}/img/catch-the-wave-640x360.png)
 
@@ -21,7 +23,7 @@ published: true
 
 #### Some of you might ask the question?
 
-- ***Why should I have my server and hold the responsibility of maintaining if I can have a  Cloud Server and just run my enterprise from there?***
+- ### Why should I have my server and hold the responsibility of maintaining if I can have a  Cloud Server and just run my enterprise from there?
 
 #### Yes, many of you will probably choose to run a cloud server where someone else will be holding your data. However, learning how to have your server it is fun and it could be cheaper in the long run.
 
