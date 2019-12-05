@@ -25,7 +25,7 @@ openDNS Servers, 208.67.222.222, 208.67.220.220.
 
 ````
 
-#### It is good because they're very conciencious about security and their DNS offers a gateway for that. OpenDNS has been aquired by CISCO and we all hope their structure will remain current or better than was before. We will see. This configuration worked ok for while! Then, AT&T merged with Pacific Bell and started to offer a ```DSL/Uverse```` connection with a ```static ip address```.
+#### It is good because they're very conciencious about security and their DNS offers a gateway for that. OpenDNS has been aquired by CISCO and we all hope their structure will remain current or better than was before. We will see. This configuration worked ok for while! Then, AT&T merged with Pacific Bell and started to offer a ```DSL/Uverse connection with a static ip address```.
 
 #### That made my work a lot easier and with one ip address, I got to serve 3 websites plus one eCommerce store as a test. The eCommerce store was only a test store but had all the features of a real store in production. I do not advise people to run an eCommerce store in production without having a reverse ip address. Some savy costumers will check that and if your ip address do not reverse properly to your domain name, they get suspicious about. In addition to that, hackers will try everything in their book to high-jack your domain. So, you have to wach out that your store does not become a haven to intruders. 
 
