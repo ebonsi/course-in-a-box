@@ -6,12 +6,8 @@ published: true
 ***Note:***
 #### This material is open source and free to copy, teach and/or modify according to your needs. It follows the main principals of OER, Open Educational Resources philosophy and it's policies.
 
-## Introduction | About the Course
+### Hello and Welcome to our online course!
 
-To follow this Course Development head yourself to this link;
-[https://github.com/ebonsi/course-in-a-box](https://github.com/ebonsi/course-in-a-box)
-
-***Hello and Welcome to our online course!***
 #### This course is for anyone that wants to learn the fundamentals of having a home server. The course is geared for the Mac OS X Client computer (...and, client means any computer running the Mac OS X operating system) but you probably can use many sections of this course for Windows and Linux. All software mentioned on this course is open source and available both for Windows and Linux.
 
 #### ![Catch the Wave!]({{site.baseurl}}/img/catch-the-wave-640x360.png)
