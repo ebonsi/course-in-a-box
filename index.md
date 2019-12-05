@@ -8,6 +8,9 @@ published: true
 
 ## Introduction | About the Course
 
+To follow this Course Development head yourself to this link;
+[https://github.com/ebonsi/course-in-a-box](https://github.com/ebonsi/course-in-a-box)
+
 ***Hello and Welcome to our online course!***
 #### This course is for anyone that wants to learn the fundamentals of having a home server. The course is geared for the Mac OS X Client computer (...and, client means any computer running the Mac OS X operating system) but you probably can use many sections of this course for Windows and Linux. All software mentioned on this course is open source and available both for Windows and Linux.
 
