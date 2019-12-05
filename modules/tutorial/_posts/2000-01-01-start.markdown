@@ -2,7 +2,13 @@
 title: About Our Course
 ---
 
-# Why I Developed this Course?
+## Introduction | About the Course
+
+To follow this Course Development head yourself to this link;
+
+[https://github.com/ebonsi/course-in-a-box](https://github.com/ebonsi/course-in-a-box)
+
+### Why I Developed this Course?
 
 ![Why I developed this Course?]({{site.baseurl}}/img/about-our-course-1280x640.png)
 
