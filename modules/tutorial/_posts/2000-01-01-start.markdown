@@ -4,7 +4,7 @@ title: About Our Course
 
 ## Introduction | About the Course
 
-To follow this Course Development head yourself to this link;
+#### Follow this Course Development
 
 [https://github.com/ebonsi/course-in-a-box](https://github.com/ebonsi/course-in-a-box)
 
@@ -12,7 +12,7 @@ To follow this Course Development head yourself to this link;
 
 ![Why I developed this Course?]({{site.baseurl}}/img/about-our-course-1280x640.png)
 
-### I have been running a home server for a long time and during this time I accumulated some knowledge on the subject. So, now I decided to share this knowledge with you. By reading and researching books and the internet I encountered lots of good information and after reading their material, I went on and try. ###
+#### I have been running a home server for a long time and during this time I accumulated some knowledge on the subject. So, now I decided to share this knowledge with you. By reading and researching books and the internet I encountered lots of good information and after reading their material, I went on and try. ###
 
 #### I went through many tests. In the beginning, it was hard because many used to say that you need a static ip address to run a server. However, at some point, I got to run a server on a dynamic address.
 
