@@ -6,7 +6,7 @@ title: About Our Course
 
 #### You Can Follow this Course Development at;
 
-[https://github.com/ebonsi/course-in-a-box](https://github.com/ebonsi/course-in-a-box)
+#### [https://github.com/ebonsi/course-in-a-box](https://github.com/ebonsi/course-in-a-box)
 
 ### Why I Developed this Course?
 
