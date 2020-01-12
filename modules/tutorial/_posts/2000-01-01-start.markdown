@@ -6,7 +6,7 @@ title: About Our Course
 
 #### You Can Follow this Course Development at;
 
-#### [https://github.com/ebonsi/course-in-a-box](https://github.com/ebonsi/course-in-a-box)
+#### [https://github.com/ebonsi/course-in-a-box](https://github.com/ebonsi/course-in-a-box){:target="_blank"}
 
 ### Why I Developed this Course?
 
@@ -31,9 +31,9 @@ openDNS Servers, 208.67.222.222, 208.67.220.220.
 
 #### Today, you will find many other services that offers dynamic connections. You can research on Free Dynamic DNS to find others out there in the internet.
 
-[OpenDNS, Dynamic DNS](https://www.opendns.com/)
+[OpenDNS, Dynamic DNS](https://www.opendns.com/){:target="_blank"}
 
-[https://www.eurodns.com/dynamic-dns](https://www.eurodns.com/dynamic-dns)
+[https://www.eurodns.com/dynamic-dns](https://www.eurodns.com/dynamic-dns){:target="_blank"}
 
 
 #### They're available for Mac OS X, Windows and Linux
