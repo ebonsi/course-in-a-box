@@ -17,6 +17,7 @@ published: true
 ### Internet Society | Course Software List
 #### [https://bit.ly/2kN44bm](https://bit.ly/2kN44bm)
 
+### * For those that are really interested in this course, if you continue reading the material, you will find out how to access this open source material without having to join Internet Society.
 
 #### I will try my best to not overwhelming you initially with tons of information. At the course ends, we will advance towards extra technical topics.
 
